@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10880424-2029-447c-a7dd-2cd3a0f76b59" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/singleton/DictionaryRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/singleton/Dictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/singleton/Dictionary.java" afterDir="false" />
-    </list>
+    <list default="true" id="10880424-2029-447c-a7dd-2cd3a0f76b59" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,33 +30,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.Java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/seanj/Documents/GitHub/Flatiron_Bootcamp_Summer_2022/java-mod-5-maven-lab-2",
+    "settings.editor.selected.configurable": "preferences.sourceCode.Java"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="org.example.map" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DictionaryRunner">
-    <configuration name="DictionaryRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.singleton.DictionaryRunner" />
-      <module name="JConcurrentDataStructures" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.singleton.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.org.example.singleton.DictionaryRunner">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="JConcurrentDataStructures" />
@@ -74,9 +58,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="org.example.singleton.DictionaryRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="18" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="org.example.singleton.DictionaryRunner" />
+      <module name="java-mod-5-maven-lab-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.org.example.singleton.DictionaryRunner" />
+      <item itemvalue="Application.Main" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DictionaryRunner" />
+        <item itemvalue="Application.org.example.singleton.DictionaryRunner" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
