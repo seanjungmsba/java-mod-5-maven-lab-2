@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10880424-2029-447c-a7dd-2cd3a0f76b59" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/singleton/ExampleLombok.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/service/RateLimiterJay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/service/RateLimiterThomas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/service/RateLimiter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/service/RateLimiter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/service/RateLimiterRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/service/RateLimiterRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/singleton/ExampleLombok.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/singleton/ExampleLombok.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,13 +55,26 @@
       <recent name="org.example.map" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.org.example.singleton.DictionaryRunner">
+  <component name="RunManager" selected="Application.org.example.service.RateLimiterRunner">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="JConcurrentDataStructures" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.service.RateLimiterRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.service.RateLimiterRunner" />
+      <module name="java-mod-5-maven-lab-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.service.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,11 +98,13 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.org.example.service.RateLimiterRunner" />
       <item itemvalue="Application.org.example.singleton.DictionaryRunner" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.org.example.service.RateLimiterRunner" />
         <item itemvalue="Application.org.example.singleton.DictionaryRunner" />
         <item itemvalue="Application.Main" />
       </list>

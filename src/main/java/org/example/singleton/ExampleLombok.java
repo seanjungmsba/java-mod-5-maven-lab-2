@@ -10,5 +10,5 @@ public class ExampleLombok {
     private int age;
 
     public ExampleLombok() {this.getAge();}
-    
+
 }
